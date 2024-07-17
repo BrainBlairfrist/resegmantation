@@ -1,6 +1,6 @@
 # PointNet2_Segmentation
 ## Description
-This project is based on PointNet++ paper. You can find the [arXiv](https://arxiv.org/abs/1706.02413) version here.
+This project is based on PointNet++ paper. You can find the arXiv version here.
 ```bash
 @article{DBLP:journals/corr/QiYSG17,
   title={PointNet++: Deep Hierarchical Feature Learning on Point Sets in a
