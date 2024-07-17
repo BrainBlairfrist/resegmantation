@@ -1,5 +1,4 @@
 # PointNet2_Segmentation
-![Project Image](images/groundtruth.png)
 ## Description
 This project is based on PointNet++ paper. You can find the [arXiv](https://arxiv.org/abs/1706.02413) version here.
 ```bash
